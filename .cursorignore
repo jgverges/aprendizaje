@@ -1,0 +1,99 @@
+# Add directories or file patterns to ignore during indexing
+
+# === DEPENDENCIAS ===
+node_modules/
+bower_components/
+vendor/
+.pnp/
+.pnp.js
+
+# === BUILD / DIST ===
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+.vercel/
+.netlify/
+
+# === CACHE ===
+.cache/
+.parcel-cache/
+.npm/
+.yarn/
+.pnpm-store/
+*.cache
+.eslintcache
+.stylelintcache
+
+# === LOGS ===
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# === CONFIGURACIÓN LOCAL ===
+.vscode/
+.idea/
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === TEMPORAL ===
+.tmp/
+.temp/
+tmp/
+temp/
+.history/
+*.swp
+*.swo
+*~
+
+# === SISTEMA OPERATIVO ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === TESTING ===
+coverage/
+.nyc_output/
+*.lcov
+
+# === ARCHIVOS GRANDES ===
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.flv
+*.mp3
+*.wav
+*.pdf
+*.psd
+*.ai
+
+# === BASES DE DATOS ===
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# === LOCKFILES (opcional - descomenta si quieres excluirlos) ===
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

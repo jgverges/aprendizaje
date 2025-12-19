@@ -1,0 +1,19 @@
+# Archivos temporales
+*.tmp
+*.log
+*.swp
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de Cursor/VS Code (opcional - puedes incluirlos si quieres)
+# .vscode/
+# .cursor/
+
+# Archivos personales o sensibles (ajusta según necesites)
+# *.key
+# *.pem
+# config.json
