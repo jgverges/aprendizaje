@@ -1,4 +1,4 @@
-## TAREA 1 (ampliada): Ejemplos de ahorro de tiempo por tarea habitual
+##  Ejemplos de ahorro de tiempo por tarea habitual
 
 ### Tabla resumen: ahorro de tiempo por tarea
 
@@ -18,6 +18,7 @@
 | **Traducir paper** | 4h | 1h | 3h | DeepL |
 | **Identificar gaps literatura** | 10h | 2h | 8h | Elicit |
 | **Resumir papers largos** | 2h | 20min | 1.7h | Elicit |
+| **Actualizar visibilidad científica** | 2h | 30min | 1.5h | ORCID/ResearchGate/Cursor |
 
 **Total ahorrado por paper completo: ~60 horas**
 
@@ -89,6 +90,19 @@
 | Comentarios detallados | 8h | 4.5h | Cursor |
 
 **Ahorro: ~12 horas/tesis**
+
+---
+
+#### 6. Actualizar visibilidad científica
+
+| Tarea | Sin IA | Con IA | Herramienta |
+|-------|--------|--------|-------------|
+| Actualizar ORCID | 30min | 10min | ORCID |
+| Compartir en ResearchGate | 30min | 10min | ResearchGate |
+| Optimizar SEO | 30min | 5min | Cursor |
+| Compartir en redes sociales | 30min | 5min | Twitter/X |
+
+**Ahorro: ~1.5 horas/publicación**
 
 ---
 

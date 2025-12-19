@@ -23,12 +23,12 @@ Micrrosoft office
 - revisar tesis doctorales
 
 # Herramientas a mi alcance
-Zotero
-Mendeley
-GraphPad Prism
-Chatgpt (necesito saber cuando es usable o no para mi expecialidad o tarea porque es muy immpreciso en algunas tareas)
-Cursor (mi marido tiene una subscripcion de 20eu/mes)
-BioRender
+- Zotero
+- Mendeley
+- GraphPad Prism
+- Chatgpt (solo valido en algunas tareas)
+- BioRender
+- Cursor (subscripcion en hogar de 20eu/mes)
 
 ## Proceso
 - Dame el resultado de las tareas por pasos
