@@ -530,10 +530,3 @@ Trinka → Corrige gramática en idioma traducido
 **Última actualización:** Basado en análisis de herramientas para investigación biomédica en VIH y senescencia celular.
 
 ---
-
-**Consejo para copiar fácilmente:**
-1. Haz triple clic en la primera línea (---) para seleccionar todo el párrafo
-2. Mantén Shift y haz clic al final del último "---" para seleccionar todo el bloque
-3. O usa Ctrl+A dentro de este mensaje para seleccionar todo y luego borra las líneas que no necesites
-
-¿Prefieres que te lo envíe en un formato más fácil de copiar?
