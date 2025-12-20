@@ -1,4 +1,5 @@
 
+
 ## Nuevas herramientas de IA para incorporar en investigación biomédica
 
 ### Resumen ejecutivo
@@ -207,6 +208,8 @@ Cuando combinas múltiples herramientas, las mejoras de calidad se multiplican:
 
 ---
 
+<div style="page-break-before: always;"></div>
+
 ## 📑 Índice y guía de lectura
 
 ### Estructura del documento
@@ -313,6 +316,8 @@ Como ya usas BioRender para crear las ilustraciones biomédicas, **Cursor comple
 
 ---
 
+<div style="page-break-before: always;"></div>
+
 ## 2. Tabla comparativa rápida de herramientas
 
 | Herramienta | Función principal | Costo | Ahorro de tiempo | Prioridad |
@@ -343,6 +348,8 @@ Como ya usas BioRender para crear las ilustraciones biomédicas, **Cursor comple
 
 ---
 
+<div style="page-break-before: always;"></div>
+
 ## 4. Plan de acción: siguiente paso
 
 ### Paso inmediato (esta semana)
@@ -371,6 +378,8 @@ Como ya usas BioRender para crear las ilustraciones biomédicas, **Cursor comple
    - Resultado: flujo de trabajo optimizado permanente
 
 ---
+
+<div style="page-break-before: always;"></div>
 
 ## Conclusión
 
