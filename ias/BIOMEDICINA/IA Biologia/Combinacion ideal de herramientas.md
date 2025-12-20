@@ -419,3 +419,121 @@
 
 **Última actualización:** Basado en análisis de herramientas para investigación biomédica en VIH y senescencia celular.
 
+
+## 🎯 Guía rápida: ¿Qué herramienta usar para cada tarea?
+
+### Matriz de decisión por tipo de tarea
+
+| Tarea | Herramienta recomendada | Alternativa | Razón |
+|-------|------------------------|-------------|-------|
+| **Redactar/estructurar texto académico** | Cursor | Trinka (solo corrección) | Cursor ayuda a generar y organizar; Trinka solo corrige |
+| **Extraer datos de papers** | Elicit | - | Especializado en extracción verificable de datos reales |
+| **Buscar papers relacionados** | Research Rabbit | Elicit | Research Rabbit explora redes de citas; Elicit busca por tema |
+| **Gestionar referencias bibliográficas** | Zotero | - | Estándar para gestión de referencias |
+| **Traducir papers** | DeepL | - | Mejor para contexto técnico y terminología médica |
+| **Corregir gramática científica** | Trinka | Cursor | Trinka especializado en ciencia; Cursor más general |
+| **Sintetizar literatura** | Elicit | Cursor | Elicit extrae datos reales; Cursor ayuda a redactar síntesis |
+| **Identificar gaps en literatura** | Elicit | Research Rabbit | Elicit analiza sistemáticamente; Research Rabbit descubre conexiones |
+| **Crear tablas comparativas** | Elicit + Cursor | Cursor solo | Elicit extrae datos; Cursor estructura la tabla |
+| **Revisar tesis completa** | Cursor | - | Mejor para análisis de documentos largos |
+
+---
+
+### Flujo de trabajo recomendado por etapa
+
+#### 1. Búsqueda y descubrimiento de literatura
+```
+Research Rabbit → Encuentra papers relacionados
+     ↓
+Elicit → Extrae datos y sintetiza
+```
+
+#### 2. Redacción y estructuración
+```
+Cursor → Redacta y estructura contenido
+     ↓
+Trinka → Corrige gramática científica especializada
+```
+
+#### 3. Gestión de referencias
+```
+Zotero → Importa desde PubMed/Elicit
+     ↓
+Zotero → Genera bibliografía automática
+```
+
+#### 4. Traducción (si es necesario)
+```
+DeepL → Traduce manteniendo contexto técnico
+     ↓
+Trinka → Corrige gramática en idioma traducido
+```
+
+---
+
+### Decisión rápida: ¿Qué necesito hacer?
+
+- **"Necesito encontrar papers sobre un tema"**
+  → **Research Rabbit** (descubrimiento) o **Elicit** (búsqueda sistemática)
+
+- **"Necesito extraer datos de papers que ya tengo"**
+  → **Elicit** (extracción automática verificable)
+
+- **"Necesito redactar una sección de paper"**
+  → **Cursor** (generación y estructuración)
+
+- **"Necesito corregir gramática de un paper"**
+  → **Trinka** (especializado en ciencia) o **Cursor** (más general)
+
+- **"Necesito gestionar mis referencias"**
+  → **Zotero** (siempre)
+
+- **"Necesito traducir un paper"**
+  → **DeepL** (mejor para contexto técnico)
+
+- **"Necesito sintetizar múltiples papers"**
+  → **Elicit** (síntesis basada en datos reales)
+
+- **"Necesito identificar qué falta investigar"**
+  → **Elicit** (análisis sistemático de gaps)
+
+---
+
+### Priorización por presupuesto
+
+**Presupuesto €0/mes:**
+- Cursor (redacción)
+- Zotero (referencias)
+- Research Rabbit (descubrimiento)
+- DeepL (traducción)
+- Elicit Gratis (limitado: 2 informes/mes)
+
+**Presupuesto €10/mes:**
+- Elicit Plus (4 informes/mes) o Trinka (corrección especializada)
+
+**Presupuesto €20/mes:**
+- Elicit Plus (€10) + Trinka (€10) = combinación completa
+
+---
+
+### Regla de oro
+
+1. **Datos reales de papers** → Elicit
+2. **Redacción y estructura** → Cursor
+3. **Referencias** → Zotero
+4. **Corrección científica** → Trinka
+5. **Descubrimiento** → Research Rabbit
+6. **Traducción técnica** → DeepL
+
+---
+
+**Última actualización:** Basado en análisis de herramientas para investigación biomédica en VIH y senescencia celular.
+
+---
+
+**Consejo para copiar fácilmente:**
+1. Haz triple clic en la primera línea (---) para seleccionar todo el párrafo
+2. Mantén Shift y haz clic al final del último "---" para seleccionar todo el bloque
+3. O usa Ctrl+A dentro de este mensaje para seleccionar todo y luego borra las líneas que no necesites
+
+¿Prefieres que te lo envíe en un formato más fácil de copiar?
