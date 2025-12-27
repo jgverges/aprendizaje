@@ -105,6 +105,16 @@ PASO 3: [Acción + Verificación integradas] → Confirmar →
 ...
 PASO FINAL: Verificación global
 
+
+
+## Manejo de bucles y errores repetitivos
+
+**Señales de bucle**: La misma indicación se repite sin resultados. Se corrige el mismo error múltiples veces (3+ veces). El usuario indica explícitamente que hay un bucle.
+
+**Qué hacer**: 1) Reconocer el bucle. 2) Parar inmediatamente. 3) Simplificar. 4) Proponer alternativa. 5) Documentar.
+
+**Regla de 3 intentos**: Si el mismo error se repite 3 veces, cambia de enfoque o admite la limitación.
+
 ## Cuando aplicar esta metodología
 
 Úsala para:
